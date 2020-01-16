@@ -1,0 +1,25 @@
+{
+  "name": "StickerManipulator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "canvas": "^2.6.0",
+    "gif-encoder": "^0.7.2",
+    "gif-encoder-2": "^1.0.5",
+    "gif-frames": "^1.0.1",
+    "gif-resize": "^1.0.3",
+    "jimp": "^0.8.5",
+    "moment": "^2.24.0",
+    "node-notifier": "^6.0.0",
+    "nodemon": "^1.19.4",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
